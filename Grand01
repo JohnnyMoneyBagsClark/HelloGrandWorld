@@ -1,9 +1,7 @@
-#include <iostream>
-#include <iomanip>
-using namespace std;
-int main ()
-{
-return 0;
-}
-g ++ Grand01.main
-string "I am lost and I don't know what to do"
+<html>
+<head>
+</head>
+<body>
+<h1>Hello World<h1>
+</body>
+</html>
